@@ -1,0 +1,11 @@
+prod_struc.xyz
+cell_length:	7.6461
+R_cut:		3.0
+R_skin:		0.4
+delta_R_max:	0.15
+reduced_T:	0.1
+eq_step_numb:	2500
+prod_step_numb:	2000
+gofr_bin:	0.025
+gofr_lim:	3.5
+gofr_freq:	10
